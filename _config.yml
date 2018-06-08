@@ -1,3 +1,4 @@
+
 permalink: /blog/:year/:month/:title.html 
 include: ['.htaccess']
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "CNAME", "Gemfile", "Gemfile.lock"]
@@ -25,7 +26,7 @@ JB :
 
 # presonal config
 domain: https://darmao.github.io
-title:darmao's Blog
+title: darmao's Blog
 description: Draw my life with code
 author: darmao
 email: darmao@qq.com
